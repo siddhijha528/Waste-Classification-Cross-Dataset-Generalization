@@ -1,4 +1,5 @@
 **Cross-Domain Generalization Challenges in Waste Image Classification Under Real-World Variations**
+
 **Authors:** Siddhi Jha, Pooja Gupta  
 **Department:** Data Science and Engineering  
 **Institution:** Manipal University Jaipur, Jaipur, India
